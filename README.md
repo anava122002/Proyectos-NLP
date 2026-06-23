@@ -11,6 +11,6 @@ Los clasificadores de texto son esenciales para el procesamiento del lenguaje na
 
 Tras entender como funcionan los clasificadores de texto y, concretamente, aquellos basados en Naive Bayes, en este proyecto pretendo dar un paso más. En este repositorio se implementan, evalúan y comparan los modelos Naive Bayes (MultinomialNB y ComplementNB) con otros basados en Regresión Logística (LogisticRegression), Regresión Lineal (LinearSVC) y Random Forest (RandomForest). 
 
-## [Análisis de la Aceptación de una Empresa frente a la Competencia](https://github.com/anava122002/Proyecto-de-NLP)
+### [Análisis de la Aceptación de una Empresa frente a la Competencia](https://github.com/anava122002/Proyecto-de-NLP)
 
 Proyecto desarrollado para un máster en Ciencia de Datos e IA. Pretende hacer un análisis de sentimiento de las reviews en Trustpilot de la empresa *Richersounds* usando modelos de DL (BERT Multilingual y DistilBERT) junto con un análisis de topics con BERTopic para evaluar su posición en el mercado con respecto a la competencia e identificar tanto puntos fuertes como áreas de mejora.
