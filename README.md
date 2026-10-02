@@ -14,3 +14,11 @@ Tras entender como funcionan los clasificadores de texto y, concretamente, aquel
 ### [Análisis de la Aceptación de una Empresa frente a la Competencia](https://github.com/anava122002/Proyecto-de-NLP)
 
 Proyecto desarrollado para un máster en Ciencia de Datos e IA. Pretende hacer un análisis de sentimiento de las reviews en Trustpilot de la empresa *Richersounds* usando modelos de DL (BERT Multilingual y DistilBERT) junto con un análisis de topics con BERTopic para evaluar su posición en el mercado con respecto a la competencia e identificar tanto puntos fuertes como áreas de mejora.
+
+### [Profesor Francés](https://github.com/anava122002/IA-profesor)
+
+El "profesor de francés" es un chatbot con arquitectura multiagente sobre LangGraph diseñado para el aprendizaje del idioma en cualquier nivel. Permite tanto ayudar al usuario con cualquier duda que tenga en el momento como, en el caso de querer un aprendizaje organizado a largo plazo, poder seguir una guía de estudio y evaluar su nivel con ejercicios.
+
+### [Recomendador de Ediciones](https://github.com/anava122002/Trabajo-Fin-de-Master)
+
+Modelo de recomendación que, en base a una serie de necesidades referidas por el usuario, recomienda la edición de entre las registradas en la base de datos que más se ajuste a lo pedido. Se presenta como un chatbot que actua como una interfaz conversacional que recoge y transforma las necesidades del usuario para dar una recomendación, devolviéndole su título, autor, editorial, portada y un breve resumen de cómo encaja con su perfil.
